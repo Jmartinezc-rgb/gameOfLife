@@ -1,2 +1,2 @@
 # gameOfLife
-el jeugo de la vida de John Horton Conway
+el juego de la vida de John Horton Conway
